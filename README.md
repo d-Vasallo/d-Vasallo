@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-Vasallo
 - 👀 I’m a second year student interested in software development
-- 🌱 I'm currently learning Python and JavaScript 
-- 💻 I'm proficient in Java, C, and C++
+- 🌱 Currently learning Python and JavaScript 
+- 💻 Proficient in Java, C, and C++
 
 <!---
 d-Vasallo/d-Vasallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
